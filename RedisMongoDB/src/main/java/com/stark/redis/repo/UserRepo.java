@@ -1,4 +1,4 @@
-package com.stark.redis;
+package com.stark.redis.repo;
 
 import com.stark.redis.model.User;
 import org.springframework.data.mongodb.repository.MongoRepository;

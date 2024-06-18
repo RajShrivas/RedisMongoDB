@@ -1,7 +1,7 @@
 package com.stark.redis.service;
 
 
-import com.stark.redis.UserRepo;
+import com.stark.redis.repo.UserRepo;
 import com.stark.redis.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.redis.core.RedisTemplate;
